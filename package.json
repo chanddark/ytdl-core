@@ -13,16 +13,6 @@
     "url": "git://github.com/chanddark/ytdl-core.git"
   },
   "author": "Skick (https://github.com/chanddark)",
-  "contributors": [
-    "fent <fentbox@gmail.com> (https://github.com/chanddark)",
-    "Tobias Kutscha (https://github.com/chanddark)",
-    "Andrew Kelley (https://github.com/chanddark)",
-    "Mauricio Allende (https://github.com/chanddark)",
-    "Rodrigo Altamirano (https://github.com/chanddark)",
-    "Jim Buck (https://github.com/chanddark)",
-    "Pawel Rucinski (https://github.com/chanddark)",
-    "Alexander Paolini (https://github.com/chanddark)"
-  ],
   "main": "./lib/index.js",
   "types": "./typings/index.d.ts",
   "files": [
